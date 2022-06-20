@@ -1,4 +1,4 @@
-# [Optional] Vagrant
+# Vagrant
 
 ## Learning Objectives
 
