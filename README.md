@@ -1,43 +1,16 @@
-# Vagrant
+# zero day
 
-## Learning Objectives
+Module of **zero day**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
 
-* At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Technologies
 
-### General
+* Vagrant
+* Tested on Ubuntu 14.04 LTS
 
-* What is a virtual machine
-* What is Vagrant
-* Who wrote Vagrant
-* What is Ubuntu
-* What does “Ubuntu” mean
-* How to use VMs with Vagrant
-* What does the command uname do
+## Projects
 
-## Requirements
+All of the following folders are projects done during the studies:
 
-* A README.md file at the root of the repo, containing a description of the repository
-* A README.md file, at the root of the folder of this project (i.e. 0x00-vagrant), describing what this project is about
-
-## More Info
-
-* Install git
-* If git is not already installed on your terminal:
-
-```bash
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
-```
-
-## Basic usage
-
-* At the end of this project you should be able to reproduce and understand these command lines:
-
-```bash
-git clone 'repo'
-touch test
-git add test
-git commit -m "Initial commit"
-git push origin main
-```
+| Project name | Description |
+| ------------ | ----------- |
+| [`0x00-vagrant`](https://github.com/nazrawimedhin/zero_day/tree/master/0x00-vagrant) | It aims to learn about vagrant |
